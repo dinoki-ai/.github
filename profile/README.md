@@ -1,9 +1,5 @@
 # Dinoki: Your Desktop AI Sidekick
 
-Public releases for the Dinoki app.
-
-## What is Dinoki?
-
 **Dinoki** is your charming and powerful desktop AI sidekick—designed specifically to transform your macOS experience. It’s more than just a delightful dinosaur companion roaming your screen; it's a capable assistant ready to boost productivity, automate tasks, and deliver insightful interactions, all from your desktop.
 
 Discover more at [dinoki.ai](https://dinoki.ai)
