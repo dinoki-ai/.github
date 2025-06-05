@@ -4,6 +4,12 @@
 
 Discover more at [dinoki.ai](https://dinoki.ai)
 
+## 💬 Join Our Community
+
+Connect with fellow Dinoki users, share tips, get support, and stay updated on the latest features! Join our Discord community:
+
+**[🦕 Join Dinoki Discord](https://discord.gg/dinoki)**
+
 ## 🌟 Private-First, Flexible Provider Support
 
 Dinoki prioritizes your privacy and power by offering flexible AI provider options:
