@@ -6,11 +6,9 @@ Discover more at [dinoki.ai](https://dinoki.ai)
 
 ## 🦕 Meet the Dinoki Research Team
 
-**Manifesto: Dinoki Research Team (DRT)**
-
 Hey there, adventurer!
 
-We're the Dinoki Research Team (DRT)—an indie band of curious creators, pixel-art enthusiasts, and AI explorers on a mission to create the ultimate digital buddy. Our laboratory? Decentralized. Our companions? Silly, charming, pixelated friends. Our quest? To craft a perfect digital pet powered by frontier AI… well, someday.
+We're the Dinoki Research Team—an indie band of curious creators, pixel-art enthusiasts, and AI explorers on a mission to create the ultimate digital buddy. Our laboratory? Decentralized. Our companions? Silly, charming, pixelated friends. Our quest? To craft a perfect digital pet powered by frontier AI… well, someday.
 
 Right now, Dinoki is a bit goofy—think early-stage video-game AI struggling to pick up a simple cup (yep, just like those infamous Nvidia robot demos!). But that's part of the fun! We believe the magic is in the journey, and we're inviting you to come along as we transform our quirky companions into genuine digital friends who live on your desktop, anticipate your every whim, and add a healthy dose of joy and productivity to your day.
 
