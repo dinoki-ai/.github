@@ -49,14 +49,14 @@ Dinoki adapts to YOUR preferred AI setup with unprecedented flexibility:
 - **Perplexity**: Cutting-edge search-augmented AI
 - **Custom Providers**: Add ANY API-compatible AI service
 
-### Instance-Based Customization *(Pro Only)*
+### Instance-Based Customization
 Create multiple companions, each with their own:
 - **Unique Provider**: Mix local and cloud as needed
 - **Custom Name & Personality**: Every instance is truly unique
 - **Isolated Settings**: Keep work and personal companions separate
 - **Independent Memory**: Each companion evolves independently
 
-## 🎮 NEW: Fully Autonomous Character Mode
+## 🎮 Fully Autonomous Character Mode
 
 Dinoki Pro introduces groundbreaking **Character Mode**—your pixel companion is now fully autonomous! Watch as your desktop buddy:
 
