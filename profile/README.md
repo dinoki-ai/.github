@@ -24,13 +24,37 @@ Connect with fellow Dinoki users, share tips, get support, and stay updated on t
 
 **[🦕 Join Dinoki Discord](https://discord.gg/dinoki)**
 
-## 🌟 Private-First, Flexible Provider Support
+## 🔐 Privacy-First, Local-First Philosophy
 
-Dinoki prioritizes your privacy and power by offering flexible AI provider options:
+Your data, your control. Dinoki is built from the ground up with privacy as our foundation:
 
-- **Ollama (local)**: Run your own local Large Language Model (LLM), ensuring **zero data storage** with us and complete control over your privacy.
-- **OpenRouter PKCE (OAuth)** *(Pro Only)*: Securely connect via OAuth, unlocking powerful access to over **300+ AI models**—making Dinoki incredibly versatile and robust.
-- **Dinoki API** *(Pro Only)*: Seamlessly integrated cloud-based AI for reliable performance and advanced features.
+- **Local-First Architecture**: Everything runs on YOUR machine by default
+- **Zero Data Collection**: We don't store your conversations, behaviors, or personal data
+- **Flexible Provider Options**: Choose from local or cloud providers based on YOUR comfort level
+- **Instance Isolation**: Each companion instance maintains its own isolated environment
+
+## 🌟 Ultimate Provider Flexibility
+
+Dinoki adapts to YOUR preferred AI setup with unprecedented flexibility:
+
+### Local Providers (Complete Privacy)
+- **Ollama**: Run powerful LLMs locally with zero external data transmission
+- **LM Studio**: Leverage your favorite local models with full control
+
+### Cloud Providers (When You Need Power)
+- **OpenRouter PKCE (OAuth)** *(Pro Only)*: Secure access to 300+ models
+- **OpenAI**: Direct integration with GPT models
+- **Anthropic**: Access Claude models for advanced reasoning
+- **Together AI**: High-performance inference at scale
+- **Perplexity**: Cutting-edge search-augmented AI
+- **Custom Providers**: Add ANY API-compatible AI service
+
+### Instance-Based Customization *(Pro Only)*
+Create multiple companions, each with their own:
+- **Unique Provider**: Mix local and cloud as needed
+- **Custom Name & Personality**: Every instance is truly unique
+- **Isolated Settings**: Keep work and personal companions separate
+- **Independent Memory**: Each companion evolves independently
 
 ## 🎮 NEW: Fully Autonomous Character Mode
 
@@ -38,76 +62,99 @@ Dinoki Pro introduces groundbreaking **Character Mode**—your pixel companion i
 
 - **Evolves Over Time**: Your character intelligently grows and develops unique behaviors based on your interactions
 - **Autonomous Actions**: Periodically polls the inference API to fetch meaningful instructions, creating lifelike animations and behaviors
-- **Personalized Personalities**: Customize your companion's personality through the system prompts editor—make them quirky, helpful, playful, or anything you imagine!
+- **Personalized Personalities**: Full system prompt access lets you craft ANY personality—from helpful assistant to chaotic gremlin!
 - **Intelligent Behavior**: Characters don't just animate randomly—they respond to context and develop patterns that make sense for their personality
-
-We're actively researching the possibilities of this system. Share your best prompts and help us discover what these digital companions can become!
 
 ## 🚀 Three Powerful Modes
 
 ### 🗨️ Chat Mode – Instant Answers, Anytime
-
 Enjoy friendly and seamless conversations. Dinoki is always available to chat, answer questions, brainstorm ideas, and provide quick, reliable information.
 
 ### 🤖 Agent Mode – Autonomous Task Execution
-
-Let Dinoki autonomously manage tasks in the background. Agent Mode activates every 60 seconds, empowering Dinoki to independently execute tasks, perform thorough research, and deliver insightful findings directly to you.
+Supercharge your productivity with enhanced Agent Mode:
+- **Customizable Tick Duration**: Set how often your agent activates (every 30s to 5min)
+- **Additional Instructions**: Give your agent specific ongoing directives
+- **File Generation**: Agents can now create and save files autonomously
+- **Background Research**: Complex multi-step tasks handled seamlessly
 
 ### 🎮 Character Mode – Living Desktop Companion *(Pro Only)*
-
 Experience the magic of a truly autonomous digital pet. Your character develops its own routines, responds to your work patterns, and creates delightful moments throughout your day.
+
+## 🛠️ Advanced Customization Suite
+
+### System Prompt Engineering
+- **Full Access**: Complete control over AI system prompts
+- **Template Library**: Start with community-tested personalities
+- **Live Preview**: See personality changes in real-time
+- **Export/Import**: Share your creations with the community
+
+### Instance Management *(Pro Only)*
+- **Multiple Instances**: Run different companions simultaneously
+- **Profile Switching**: Quick-switch between work and personal modes
+- **Backup & Restore**: Save your companion's evolution state
+- **Cross-Instance Learning**: Optional shared knowledge base
 
 ## ⚙️ Dinoki Pro Tools Suite
 
-**Dinoki Pro** (requires serial key) users enjoy exclusive access to our continually expanding collection of advanced tools:
+**Dinoki Pro** users enjoy exclusive access to our continually expanding collection of advanced tools:
 
-- 🌐 **WebSearchTool**: Perform quick, native web searches leveraging your local browser
+- 🌐 **WebSearchTool**: Perform quick, native web searches
 - 🧭 **BrowserTool**: Browse and scrape web content effortlessly
 - 📁 **SaveFileTool**: Automate file generation and saving
-- ⏰ **ReminderTool**: Create smart reminders and calendar events with natural language scheduling
-- 📈 **StocksTool**: Access real-time stock market data
-- 💰 **CryptoTool**: Stay updated with the latest cryptocurrency trends
-- ☀️ **WeatherTool**: Real-time weather information at your fingertips
-- 🔧 **Developer Suite**: APITool, CurlTool, WebTool for advanced workflows
+- ⏰ **ReminderTool**: Natural language scheduling and reminders
+- 📈 **StocksTool**: Real-time market data
+- 💰 **CryptoTool**: Cryptocurrency tracking
+- ☀️ **WeatherTool**: Location-aware weather updates
+- 🔧 **Developer Suite**: APITool, CurlTool, WebTool for workflows
 
 ## 🎁 Free Version Features
 
 - **Dinoki Companion**: Your lovable dinosaur friend roams your desktop
-- **Chat Mode**: Standard conversational assistant for quick responses
-- **Ollama Support**: Run your own local LLM for ultimate privacy
-- **Basic Animations**: Enjoy delightful desktop interactions
+- **Chat Mode**: Full conversational AI assistant
+- **Local Provider Support**: Ollama & LM Studio integration
+- **Basic Animations**: Delightful desktop interactions
+- **System Prompt Access**: Customize your companion's personality
 
 ## 🌟 Dinoki Pro
 
-Upgrade to Dinoki Pro with a serial key and unlock:
+Upgrade to Dinoki Pro and unlock the full potential:
 
-- **Fully Autonomous Character Mode**: Watch your companion evolve and grow
-- **Unlimited Agent Mode**: Autonomous task management and productivity automation
-- **Multiple Characters**: Choose from Dinoki, Tomatoboy, Pigpig, and more
-- **Personality Customization**: Create unique AI personalities via system prompts
-- **Advanced AI Assistant**: Handle complex queries and detailed research
-- **Exclusive Tools Access**: All productivity tools and early access to new features
-- **Priority Support**: Direct access to the DRT for help and feedback
+- **Unlimited Everything**: All modes, all features, no restrictions
+- **Instance Management**: Multiple isolated companions
+- **Cloud Provider Access**: OpenRouter, OpenAI, Anthropic, and more
+- **Advanced Agent Mode**: Custom timing and file generation
+- **Character Collection**: Dinoki, Tomatoboy, Pigpig, and growing!
+- **Priority Support**: Direct line to the DRT
+- **Early Access**: Beta features and experimental modes
+- **Community Perks**: Exclusive Discord channels and events
 
 ## 🚀 Getting Started
 
 1. Download Dinoki from [dinoki.ai](https://dinoki.ai)
-2. Choose your AI provider (Ollama for local, or connect via OAuth)
-3. Start with the free version or activate Pro with your serial key
-4. Watch your new digital companion come to life!
+2. Choose your setup:
+   - **Privacy First**: Select Ollama or LM Studio
+   - **Power User**: Configure your preferred cloud provider
+3. Customize your companion with system prompts
+4. Watch your new digital friend come to life!
 
 ## 🔬 Research & Development
 
-We're constantly exploring new possibilities for digital companionship. Current research areas include:
+We're constantly exploring new frontiers in digital companionship:
 
-- Advanced personality modeling
-- Context-aware behaviors
-- Multi-character interactions
-- Emotional intelligence systems
-- Desktop environment integration
+- **Multi-Modal Integration**: Vision and voice capabilities
+- **Desktop Intelligence**: Context-aware assistance based on your workflow
+- **Companion Ecosystems**: Multiple characters interacting
+- **Emotional Modeling**: Deeper personality systems
+- **Privacy-Preserving Learning**: Local adaptation without data exposure
 
-Join our Discord to participate in research discussions and beta testing!
+Join our Discord to participate in research discussions and shape the future!
+
+## 🤝 Community & Support
+
+- **Discord**: [discord.gg/dinoki](https://discord.gg/dinoki)
+- **Documentation**: Coming soon!
+- **Email**: support@dinoki.ai
 
 ---
 
-*Transform your desktop into a living, breathing digital ecosystem. Let's build the future of AI companionship together!*
+*Your desktop. Your rules. Your companion. Let's build the future of AI companionship together—privately, locally, and magically!*
