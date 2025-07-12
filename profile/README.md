@@ -4,6 +4,19 @@
 
 Discover more at [dinoki.ai](https://dinoki.ai)
 
+---
+
+## 🆕 What’s New in v1.3.0
+
+- **Tool Providers (OAuth)**: Securely connect services like Gmail and Slack
+- **Gmail Tools**: Draft, read, label, and reply to emails directly from Dinoki
+- **Slack Tools**: Send messages, create reminders, auto-reply, and more
+- **Local-First Execution**: All tools run natively on your Mac, no cloud dependencies
+
+These tools require no third-party configuration or background services. Just connect and start automating — right from your desktop.
+
+---
+
 ## 🦕 Meet the Dinoki Research Team
 
 Hey there, adventurer!
@@ -18,11 +31,15 @@ Dinoki Research Community (DRC) is recruiting! We're looking for testers, backer
 
 Adventure awaits—let's bring Dinoki to life!
 
+---
+
 ## 💬 Join Our Community
 
 Connect with fellow Dinoki users, share tips, get support, and stay updated on the latest features! Join our Discord community:
 
 **[🦕 Join Dinoki Discord](https://discord.gg/dinoki)**
+
+---
 
 ## 🔐 Privacy-First, Local-First Philosophy
 
@@ -32,6 +49,9 @@ Your data, your control. Dinoki is built from the ground up with privacy as our 
 - **Zero Data Collection**: We don't store your conversations, behaviors, or personal data
 - **Flexible Provider Options**: Choose from local or cloud providers based on YOUR comfort level
 - **Instance Isolation**: Each companion instance maintains its own isolated environment
+- **Native Tool Execution**: All tools (including Gmail and Slack) run locally on your desktop
+
+---
 
 ## 🌟 Ultimate Provider Flexibility
 
@@ -43,11 +63,17 @@ Dinoki adapts to YOUR preferred AI setup with unprecedented flexibility:
 
 ### Cloud Providers (When You Need Power)
 - **OpenRouter PKCE (OAuth)** *(Pro Only)*: Secure access to 300+ models
-- **OpenAI**: Direct integration with GPT models
-- **Anthropic**: Access Claude models for advanced reasoning
-- **Together AI**: High-performance inference at scale
-- **Perplexity**: Cutting-edge search-augmented AI
+- **OpenAI**
+- **Anthropic**
+- **Together AI**
+- **Perplexity**
 - **Custom Providers**: Add ANY API-compatible AI service
+
+### OAuth Tool Providers *(New!)*
+Securely connect 3rd-party services to unlock native tools:
+- **Gmail**: Read, draft, label, and reply with no server middlemen
+- **Slack**: Automate messages, reminders, reactions, and more
+- All execution stays local, powered by your desktop agent
 
 ### Instance-Based Customization
 Create multiple companions, each with their own:
@@ -55,6 +81,8 @@ Create multiple companions, each with their own:
 - **Custom Name & Personality**: Every instance is truly unique
 - **Isolated Settings**: Keep work and personal companions separate
 - **Independent Memory**: Each companion evolves independently
+
+---
 
 ## 🎮 Fully Autonomous Character Mode
 
@@ -65,20 +93,24 @@ Dinoki Pro introduces groundbreaking **Character Mode**—your pixel companion i
 - **Personalized Personalities**: Full system prompt access lets you craft ANY personality—from helpful assistant to chaotic gremlin!
 - **Intelligent Behavior**: Characters don't just animate randomly—they respond to context and develop patterns that make sense for their personality
 
+---
+
 ## 🚀 Three Powerful Modes
 
 ### 🗨️ Chat Mode – Instant Answers, Anytime
-Enjoy friendly and seamless conversations. Dinoki is always available to chat, answer questions, brainstorm ideas, and provide quick, reliable information.
+Friendly, seamless conversations. Dinoki is always ready to help with questions, brainstorming, and idea generation.
 
 ### 🤖 Agent Mode – Autonomous Task Execution
 Supercharge your productivity with enhanced Agent Mode:
 - **Customizable Tick Duration**: Set how often your agent activates (every 30s to 5min)
-- **Additional Instructions**: Give your agent specific ongoing directives
+- **Additional Instructions**: Provide specific ongoing directives
 - **File Generation**: Agents can now create and save files autonomously
 - **Background Research**: Complex multi-step tasks handled seamlessly
 
 ### 🎮 Character Mode – Living Desktop Companion *(Pro Only)*
 Experience the magic of a truly autonomous digital pet. Your character develops its own routines, responds to your work patterns, and creates delightful moments throughout your day.
+
+---
 
 ## 🛠️ Advanced Customization Suite
 
@@ -94,6 +126,8 @@ Experience the magic of a truly autonomous digital pet. Your character develops 
 - **Backup & Restore**: Save your companion's evolution state
 - **Cross-Instance Learning**: Optional shared knowledge base
 
+---
+
 ## ⚙️ Dinoki Pro Tools Suite
 
 **Dinoki Pro** users enjoy exclusive access to our continually expanding collection of advanced tools:
@@ -105,7 +139,11 @@ Experience the magic of a truly autonomous digital pet. Your character develops 
 - 📈 **StocksTool**: Real-time market data
 - 💰 **CryptoTool**: Cryptocurrency tracking
 - ☀️ **WeatherTool**: Location-aware weather updates
-- 🔧 **Developer Suite**: APITool, CurlTool, WebTool for workflows
+- 💬 **Gmail Tools** *(NEW)*: Draft, read, label, and reply to emails
+- 🗨️ **Slack Tools** *(NEW)*: Send messages, create reminders, auto-reply, and more
+- 🔧 **Developer Suite**: APITool, CurlTool, WebTool
+
+---
 
 ## 🎁 Free Version Features
 
@@ -114,6 +152,8 @@ Experience the magic of a truly autonomous digital pet. Your character develops 
 - **Local Provider Support**: Ollama & LM Studio integration
 - **Basic Animations**: Delightful desktop interactions
 - **System Prompt Access**: Customize your companion's personality
+
+---
 
 ## 🌟 Dinoki Pro
 
@@ -128,6 +168,8 @@ Upgrade to Dinoki Pro and unlock the full potential:
 - **Early Access**: Beta features and experimental modes
 - **Community Perks**: Exclusive Discord channels and events
 
+---
+
 ## 🚀 Getting Started
 
 1. Download Dinoki from [dinoki.ai](https://dinoki.ai)
@@ -136,6 +178,8 @@ Upgrade to Dinoki Pro and unlock the full potential:
    - **Power User**: Configure your preferred cloud provider
 3. Customize your companion with system prompts
 4. Watch your new digital friend come to life!
+
+---
 
 ## 🔬 Research & Development
 
@@ -148,6 +192,8 @@ We're constantly exploring new frontiers in digital companionship:
 - **Privacy-Preserving Learning**: Local adaptation without data exposure
 
 Join our Discord to participate in research discussions and shape the future!
+
+---
 
 ## 🤝 Community & Support
 
