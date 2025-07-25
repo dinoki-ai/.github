@@ -4,6 +4,8 @@
 
 Discover more at [dinoki.ai](https://dinoki.ai)
 
+> **Windows Users**: For the Windows version, visit [Windows version](https://github.com/dinoki-ai/public_win)
+
 ---
 
 ## 🆕 What’s New in v1.3.0
