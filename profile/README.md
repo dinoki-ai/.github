@@ -1,4 +1,4 @@
-# Dinoki: Your Desktop AI Companion
+# Dinoki: Your Desktop Pixel AI Companion
 
 Dinoki brings a spark of nostalgia and the power of modern AI right to your desktop. It's more than an assistant; it's a companion designed for privacy, power, and a touch of retro fun.
 
